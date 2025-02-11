@@ -36,6 +36,12 @@ Basic structure of webpage.
 <br> or <br/>This tag is used for giving the line break.
 <hr> this line introduces horizotal tag.
 
+<a href="#"></a>
+<a href="#" target="_blank"></a>
+anchor tag is used to take the user to desired website with the 
+attribute href having the site link and target having value "_blank"
+to open the website in the new webpage
+
 adding external css in html
 <link rel="stylesheet" href="harshit.css">
 
