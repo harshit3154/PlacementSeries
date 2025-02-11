@@ -1,4 +1,4 @@
-# PlacementSeries
+<!-- # PlacementSeries
 All the notes related to placement
 
 HTML stands for Hyper Text Markup Language is the standard language for making website.
@@ -51,4 +51,4 @@ adding external javascript
 <body>
 this is a body.
 </body>
-</html>
+</html> -->
