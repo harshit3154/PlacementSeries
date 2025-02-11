@@ -70,6 +70,8 @@ password text become invisible
 date  we can select date
 datetime provide box to fill datetime
 number only accept number
+select option has option tag for multiple option
+<select><option></option><option selected></option>....</select>
 
 
 adding external css in html
