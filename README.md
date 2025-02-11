@@ -36,6 +36,18 @@ Basic structure of webpage.
 <br> or <br/>This tag is used for giving the line break.
 <hr> this line introduces horizotal tag.
 
+list tag are of two type 
+orderedlist and unordered list
+<ul><li></li>...</ul>
+<ol><li></li>..<ol>
+with attribute type having value 
+A, a, i, I,1 for ol
+and disc,sqare and circle for ul.
+
+table tag <table></table>
+has row with tag <tr></tr> and column with <td></td> also representing
+table data and attribute such as border and padding can be adjusted with css
+also border has attribute border-collapse which has value collapse and seprate.
 <a href="#"></a>
 <a href="#" target="_blank"></a>
 anchor tag is used to take the user to desired website with the 

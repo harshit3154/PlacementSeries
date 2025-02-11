@@ -12,6 +12,16 @@
         a,em{
             padding: 10px 20px 30px 10px;
         }
+        ul,ol{
+            background-color: aliceblue;
+            display: inline-block;
+        }
+        table,th,td{
+            border: solid 4px black;
+            /* border-collapse: collapse; */
+            border-collapse: separate;
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
@@ -32,5 +42,83 @@
     <!-- <a href=""><em>Go to heading.html</em></a><br><br> -->
 
     <img src="https://source.unsplash.com/user/erondu/1600x900" alt="no image found">
+
+    <br><br>
+    <ul >
+        <li>First
+            <ul >
+                <li>First</li>
+                <li>Second</li>
+                <li>Third</li>
+                <li>Fourth</li>
+            </ul>
+        </li>
+        <li>Second</li>
+        <li>Third</li>
+        <li>Fourth</li>
+    </ul>
+
+    <ol type="1">
+        <li>type="A"
+            <ol type="A">
+                <li>First</li>
+                <li>Second</li>
+                <li>Third</li>
+                <li>Fourth</li>
+        </li></ol>
+        <li>type="i" <ol type="i">
+            <li>First</li>
+            <li>Second</li>
+            <li>Third</li>
+            <li>Fourth</li>
+        </ol></li>
+        <li>type="I"<ol type="I">
+            <li>First</li>
+            <li>Second</li>
+            <li>Third</li>
+            <li>Fourth</li>
+        </ol></li>
+        <li>type="a"<ol type="a">
+            <li>First</li>
+            <li>Second</li>
+            <li>Third</li>
+            <li>Fourth</li>
+        </ol></li>
+    </ol>
+
+    <h1> Demonstrating the table concept in html</h1>
+
+    <table >
+        <thead>
+            <tr>
+                <th>Student_id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone number</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Harshit Kumar</td>
+                <td>harshitkr9696@gmail.com</td>
+                <td>9905486945</td>
+            </tr>
+
+            <tr>
+                <td>2</td>
+                <td>Raja Kumar</td>
+                <td>rajakr@gmail.com</td>
+                <td>9905896545</td>
+            </tr>
+
+            <tr>
+                <td>3</td>
+                <td>Ajay Kumar Choudhary.</td>
+                <td>ajaukumarchoudhary@gmail.com</td>
+                <td>9709878718</td>
+            </tr>
+        </tbody>
+    </table>
 </body>
 </html>
