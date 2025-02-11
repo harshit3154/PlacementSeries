@@ -48,11 +48,29 @@ table tag <table></table>
 has row with tag <tr></tr> and column with <td></td> also representing
 table data and attribute such as border and padding can be adjusted with css
 also border has attribute border-collapse which has value collapse and seprate.
+
+
 <a href="#"></a>
 <a href="#" target="_blank"></a>
 anchor tag is used to take the user to desired website with the 
 attribute href having the site link and target having value "_blank"
 to open the website in the new webpage
+
+form tag is the most basic thing in html
+we uses input tag in the form to take input
+with attribute that can be
+text
+submit
+reset
+textarea
+radio  we can click only one radio button with samename
+checkbox has option checked so that it can be checked automatically 
+email
+password text become invisible
+date  we can select date
+datetime provide box to fill datetime
+number only accept number
+
 
 adding external css in html
 <link rel="stylesheet" href="harshit.css">
