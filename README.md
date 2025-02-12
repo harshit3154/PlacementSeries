@@ -4,7 +4,25 @@ All the notes related to placement
 HTML stands for Hyper Text Markup Language is the standard language for making website.
 
 CSS stands for Cascading Style Sheets is used for handling presentation of webpage.It make our website colorful and stylish
+selector{
+    property : value;
+}
 
+group of selector{
+ group of property : value;
+}
+
+inline css is added to the element directly using style attribute
+internal css is kept inside the head tag in <Style> tag
+external css is kept inside seprate file xyz.css and is include in head tag using <link rel="stylesheet" src="xyz.css">
+
+priority : inline css>(external css,internal css)
+!important increases the precedence.
+
+css selector is used to find the element in markup or target element it can be 
+any tag name css element selector eg p,h1,h2 etc or 
+.class_name class selector or 
+#id_name id selector
 
 Javascript/backend is the brain of the website.It is used for performing the logical task in website such as performing the password validation check.It handle clicking typing and all the event action.
 website work on client-server architecture,

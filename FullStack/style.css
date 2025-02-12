@@ -1,0 +1,20 @@
+*{
+    margin: 2px;
+    padding: 2px;
+}
+
+p{
+    border: 5px solid yellow;
+    background-color: aliceblue;
+    font-size: 30sp;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img_pos{
+    float: left;
+    width: 10%;
+}
+
+.para{
+    width: 90%;
+}
