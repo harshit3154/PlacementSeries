@@ -2,6 +2,14 @@
 
 using namespace std;
 
+/*
+     * best case time complexity: O(n)
+     * average case time complexity : O(n^2)
+     * worst case time complexity : O(n^2)
+     * 
+     * space complexity : O(1)
+     */
+
 void display(int ar[],int l){
     cout<<"\n\n\t\tThe element of the array are\n\n\t\t\t: ";
     for(int i=0;i<l;i++){
