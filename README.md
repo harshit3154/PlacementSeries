@@ -74,6 +74,18 @@ select option has option tag for multiple option
 <select><option></option><option selected></option>....</select>
 
 
+block element occupy the whole width eg: paragraph, heading, ul ,ol,div and it start from new row
+inlie element occupy the required width eg: span,strong,em,a,img
+
+
+there is difference between id and class though both of them of them are use to represent 
+object but class may represent a group of object but id is used to represent a specific object.
+
+&nbsp(non breakable space) is used to print spaces in html.
+&lt is used for <
+&gt is used for >
+&pound is used for symobl of pound
+&copyright is used for symobol of copy
 adding external css in html
 <link rel="stylesheet" href="harshit.css">
 
