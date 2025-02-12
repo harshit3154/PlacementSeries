@@ -5,6 +5,7 @@ HTML stands for Hyper Text Markup Language is the standard language for making w
 
 CSS stands for Cascading Style Sheets is used for handling presentation of webpage.It make our website colorful and stylish
 
+
 Javascript/backend is the brain of the website.It is used for performing the logical task in website such as performing the password validation check.It handle clicking typing and all the event action.
 website work on client-server architecture,
 In this html give structure to the request,
